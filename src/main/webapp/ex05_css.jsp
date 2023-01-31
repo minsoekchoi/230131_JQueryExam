@@ -46,17 +46,17 @@
 </head>
 <body>
 	<ul>
-		<li id="java">JAVA</li>
-		<li> WEB </li>
+		<li id="java">JAVA2</li>
+		<li> WEB2 </li>
 		<ul>
-			<li id="jsp">JSP</li>
+			<li id="jsp">JSP2</li>
 			<ul>
-				<li class = "bg">EL</li>
-				<li class = "bg">JSPL</li>
+				<li class = "bg">EL2</li>
+				<li class = "bg">JSPL2</li>
 			</ul>
-			<li>SPRING</li>
+			<li>SPRING2</li>
 		</ul>
-		<li> ANDROID </li>
+		<li> ANDROID2 </li>
 	</ul>
 	<hr>
 	<div id="box">눌러주세요</div>
